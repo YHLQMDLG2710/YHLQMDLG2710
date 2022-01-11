@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YHLQMDLG2710
-- 👀 I’m interested in programming and sports 
-- 🌱 I’m currently taking a degree 
+- 👀 I enjoy programming and I'm a sports lover
+- Yeah, this is me
 
 <!---
 YHLQMDLG2710/YHLQMDLG2710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
