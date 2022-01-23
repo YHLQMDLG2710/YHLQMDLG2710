@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @YHLQMDLG2710
 - 👀 I enjoy programming and I'm a sports lover
+- My favorite series are Avatar The Last Airbender and The Legend Of Korra
 - Yeah, this is me
 
 <!---
